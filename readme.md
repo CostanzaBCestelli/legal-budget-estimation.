@@ -62,15 +62,15 @@ Here is a breakdown of the files in this repository:
 ---
 
 ## Results
-**Predicted Legal Costs**: Tailored forecasts for country-product pairs.
-**Aggregated Country Budgets**: Comprehensive legal budget estimates by country.
-**Confidence Intervals**: Uncertainty quantification ensures robust decision-making.
+- **Predicted Legal Costs**: Tailored forecasts for country-product pairs.
+- **Aggregated Country Budgets**: Comprehensive legal budget estimates by country.
+- **Confidence Intervals**: Uncertainty quantification ensures robust decision-making.
 
 ---
 
 ## Sample Outputs:
-**Classification Accuracy**: ~85% for litigation risk.
-**Regression MSE**: Varies with dataset but provides reliable cost estimates.
+- **Classification Accuracy**: ~85% for litigation risk.
+- **Regression MSE**: Varies with dataset but provides reliable cost estimates.
 
 ---
 
