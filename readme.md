@@ -1,5 +1,7 @@
 # Legal Budget Estimation Project
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Overview
 This project aims to predict legal budgets for FMCG companies at a granular level by analyzing potential litigation risks across countries and product lines. Using advanced machine learning techniques, the project integrates data on regulatory trends, consumer sentiment, ESG scores, and historical litigation to deliver insights into legal cost forecasting. The inclusion of Monte Carlo simulations further enhances the reliability of predictions by accounting for uncertainty.
 
