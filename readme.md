@@ -27,12 +27,17 @@ This repository contains all code, mock data, and visualization tools required t
    - Charts and graphs for better interpretability of results, such as confidence intervals and aggregated costs.
 
 ---
+
 ## Project Files
 Here is a breakdown of the files in this repository:
 
-   -**legal_budget_estimation.py**: The main Python script containing all data preprocessing, machine learning models, Monte Carlo simulations, and visualizations.
-   -**Mock Data Files**: Pre-generated datasets for testing and development.
-   -**README.md**: This documentation file explaining the project structure, usage, and methodology.
+- **`legal_budget_estimation.py`**: The main Python script containing all data preprocessing, machine learning models, Monte Carlo simulations, and visualizations.
+- **Mock Data Files**: Pre-generated datasets for testing and development:
+  - `consumer_sentiment.csv`
+  - `regulatory_trends.csv`
+  - `esg_scores.csv`
+  - `historical_litigation.csv`
+- **`README.md`**: This documentation file explaining the project structure, usage, and methodology.
 
 ---
 
